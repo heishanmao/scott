@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Scott (Xu) Zheng',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://fortunate-end-0f9.notion.site/My-Site-152064b42eb346afa6751d2144e5e97d',
   author: 'Scott',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Scott Research',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  github: 'https://github.com/heishanmao',
+  //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
